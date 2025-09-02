@@ -12,7 +12,7 @@ Here, you’ll find my **certification details, key skills, and projects** that 
 ## 🏆 Certification
 - **Platform:** Coursera (Authorized by Google)  
 - **Completion:** [Month, Year]  
-- **Credential:** [👉 View Certificate](your_certificate_link_here)  
+- **Credential:** [👉 View Certificate]([your_certificate_link_here](https://www.coursera.org/account/accomplishments/professional-cert/N8TOSUSAEN5C)  [👉 View Badge]([your_badge_link_here](https://www.credly.com/badges/8b66011f-3188-4779-b359-dc29e1a83ca5/print)  
 
 ---
 
