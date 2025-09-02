@@ -1,7 +1,7 @@
 # 📊 Google Data Analytics Professional Certificate
 
 ![Google Badge](https://img.shields.io/badge/Google-Data%20Analytics-blue?logo=google&logoColor=white)  
-![Coursera Badge]([https://img.shields.io/badge/Coursera-Certified-blue?logo=coursera])  
+![Coursera Badge](https://img.shields.io/badge/Coursera-Certified-blue?logo=coursera)
 ![Status](https://img.shields.io/badge/Status-Completed-success)  
 
 Welcome to my repository showcasing my journey through the **Google Data Analytics Professional Certificate**.  
