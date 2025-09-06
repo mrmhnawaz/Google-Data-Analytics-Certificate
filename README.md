@@ -67,4 +67,4 @@ It built a strong foundation in both **technical tools** and **critical thinking
 ---
 
 📌 *This repository is part of my continuous journey to become a skilled Data Analyst.*  
-💡 Feel free to connect with me on [LinkedIn](your_linkedin_profile) or explore my other projects!  
+💡 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mohammed-hussain-nawaz-7a972b1b8) or explore my other projects!  
