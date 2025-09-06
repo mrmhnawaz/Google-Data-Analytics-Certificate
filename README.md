@@ -32,7 +32,7 @@ Here, you’ll find my **certification details, key skills, and projects** that 
 Here are some of the projects I worked on during/after the program:  
 
 <details>
-<summary>🚴 Bike Share Analysis</summary>
+<summary>🚴 Bike Share Analysis Cyclist Company</summary>
 Cleaned and analyzed bike rental data to identify usage patterns by season, time of day, and customer demographics.  
 **Tools Used:** SQL, R, Tableau  
 </details>
